@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ana sayfa-N11.com</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html"> Ana sayfa</a>
+                </li>
+                <li>
+                    <a href="abaut-us.html"> Hakkında</a>
+                </li>
+                <li>
+                    <a href="conctact.html"> iletişim</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <section>
+        <article>
+            <h2>İletişim</h2>
+            <img src="https://picsum.photos/id/42/200/300" alt="">
+               <p>
+                   Adress:
+               </p>
+               <address>
+                   Binkonutlar mah dosteli cd <br>
+                   Begonya sitesi c blok no=:17
+               </address>
+               <ul>
+                   <li><a href="tel:03322564262" 03322489751>03322489751</a></li>
+                   <li><a href="mailto:omerselvi.4191@gmail.com">omerselvi.4191@gmail.com</a></li>
+               </ul>
+            <ol>
+                <li>Lorem ipsum dolor sit.</li>
+                <li>Excepturi, obcaecati provident modi.</li>
+                <li>Labore laborum magni, officia.</li>
+                <li>Commodi pariatur, quam totam!</li>
+            </ol>
+        </article>
+
+    </section>
+    
+    <footer>
+         <nav>
+            <ul>
+                <li>
+                    <a href="index.html"> Ana sayfa</a>
+                </li>
+                <li>
+                    <a href="abaut-us.html"> Hakkında</a>
+                </li>
+                <li>
+                    <a href="conctact.html"> iletişim</a>
+                </li>
+            </ul>
+        </nav>
+    </footer>
+
+</body>
+
+</html>
