@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table {
+            width: 40%;
+        }
+        
+        table th {
+            text-align: left;
+        }
+        
+        table td,
+        table th {
+            border: 1px solid gray;
+            padding: 7px;
+        }
+        
+        table tr th {
+            background-color: rgb(236, 209, 140);
+        }
+        
+        table tr:nth-child(even) {
+            background-color: rgb(214, 221, 216);
+        }
+        
+        table tr:hover {
+            background-color: rgb(131, 134, 132);
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+
+        </tr>
+        <tr>
+            <td>Produc1</td>
+            <td>Lorem, ipsum dolor.</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>Produc1</td>
+            <td>Lorem, ipsum dolor.</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>td>Produc1</td>
+            <td>Tempore, atque quidem?</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>Produc1</td>
+            <td>Deserunt, impedit maxime.</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>Produc1</td>
+            <td>Aliquid, at consequatur.</td>
+            <td>10</td>
+        </tr>
+    </table>
+</body>
+
+</html>
